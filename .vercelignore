@@ -1,0 +1,12 @@
+# This file tells Vercel which files and directories to ignore during deployment
+# Add files or directories you want to exclude from Vercel
+
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Environment Variables
+.env*
